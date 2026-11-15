@@ -1,0 +1,21 @@
+1.  //single line comment
+
+2.      /*multi
+        line
+        comment here*/
+
+3. data types:
+primitive- these varibles r stored in the memory(stack) along with their values in diff addresses
+reference- these variables have thier address stored in memory(stack) pointing toward the real data 
+somewhere else in the memory(heap) 
+
+4.primitive data types: //int,double,char,boolean
+refernce data types: string,array,object
+
+5.steps to create a variable:   1. declaration- datatype var name
+                                2. intialisation- assigning values
+
+6. for Random function object:  To import it : //import java.util.Random;
+                                To intialize it: //Random random=new Random();
+                                funtions://random.nextInt(range);, nextLine, nextDouble, NextBoolean
+                                    In the range the first no is includes and the second number is excluded.
